@@ -58,7 +58,7 @@ pessoa = {
 #cores.add("roxo")
 #print("Cores após remover verde", cores) #imprimindo novo conjunto
 
-#   USO DO FOR
+  #USO DO FOR
   #Pedindo ao usuário para inserir palavrase formando uma lista com palavras de comprimento maior que um valor especifico 
 
 #comprimento_minimo = 6
@@ -66,13 +66,13 @@ pessoa = {
 
 #palavras = []
 #for i in range(quantidade_palavras):
- #   palavra = input(f"Insira a palavra {i+1}: ")
-  #  palavras.append(palavra)
+    #palavra = input(f"Insira a palavra {i+1}: ")
+    #palavras.append(palavra)
 
 #print("\nPalavras com comprimento maior que", comprimento_minimo, ":")
 #for palavra in palavras:
- #   if len(palavra) > comprimento_minimo:
-  #      print(palavra)    
+    #if len(palavra) > comprimento_minimo:
+        #print(palavra)    
 
   #LISTA ORDENADA
 

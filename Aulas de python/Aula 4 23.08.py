@@ -7,7 +7,7 @@
 
 #MANPULAÇÃO DE STRINGS
 
-#teste = "teste teste teste teste"
+#teste =  "segundo teste primeiro"
 
 #print(type(teste))
 #print(len(teste))
@@ -20,11 +20,11 @@
 #txt = "Hello, and Welcome To my World"
 #x = txt.casefold()
 
-#print(x)
+#print(txt)
 
 #OPERADOR CONDICIONAL
-numero1 = 30
-numero2 = 35
+#numero1 = 30
+#numero2 = 35
 
 #if numero1 != numero2:
   #print("Os numeros são diferentes")
@@ -45,15 +45,34 @@ numero2 = 35
 #OPERADORES DE REPETIÇÃO
 
 #for x in "Rafaela":
- #  print(x)       
+   #print(x)       
 
 #lista_frutas = ["maça", "goiaba", "abacate"]
 #for frutas in lista_frutas:
- # print(frutas)
-
-#list(range(0,10,2))
+  #print(frutas)
 
 #for i in range (2,4): #start, stop, step
   #print(i) 
+
+#COLEÇÕES
+
+#Alunos = ["Denis", "Bruno", "Juliana", "Vitoria", "Sayury", "Calleri", "Lucas"]
+#print(Alunos)
+#Alunos.insert(10, "Genaldo") #Insere itens na posição indicada na lista
+#Alunos.append("João") #Insere itens na ultima posição
+#Alunos[1] = ("Rafaela") #Remover o valor da lista
+#Alunos.pop(5) #Remover o indice da lista
+#print(len(Alunos))
+
+#print(Alunos)
+#Alunos.sort()
+#print(Alunos)
+#a = [5, 2, 3, 1, 4]
+#a.sort()
+
+#notas = [[5, 6, 7], [7, 9, 3], [2, 4, 8]]
+
+#print(notas[2][0])
+#print(notas)
 
   
